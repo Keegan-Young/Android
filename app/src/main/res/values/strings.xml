@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CalculatorSpinner</string>
+    <string name="tvMainTitle">Calculator Spinner App</string>
+    <string name="etNumber1">Enter First Number</string>
+    <string name="etNumber2">Enter Second Number</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="btnClear">Clear</string>
+    <string name="tvAnswer">Answer Will Show Here</string>
+    <string-array name = "operators">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>%</item>
+    </string-array>
+</resources>
